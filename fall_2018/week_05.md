@@ -3,7 +3,9 @@
 Worked on large group presentation, also read up more about django's internal
 authentication system as well as ways to use external ways (though I couldn't
 find a way for django to use its authentication system in tandem with RPI's login
-system)
+system). So far from reading online I was able to understand how to create a new
+authentication system from scratch as well as user the REMOTE_USER tag as a means
+of using an external database as a means to check authentication. 
 
 ## This Week's Plan
 
