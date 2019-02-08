@@ -1,23 +1,16 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+ - Last week I focused primarly on teaching myself more about PHP and Postgres, seeing as those languages seem to be the main languages used in AGENCY. However, the main thing I tried to do last week was try to install AGENCY onto my local machine so that I can better understand what exactly AGENCY it is/ what we need to work on. Although as a group we managed to make some progress, we weren't able to fully install AGENCY onto one machine due to poor instructions.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
+ - Next week, the plan is to hopefully ask Goldschmit for help with installing AGENCY. The top priority for us as a group is to install AGENCY so that we can dive deep into the interface, code, and functions. Once we get a better understanding of what AGENCY is, we can hopefully start to plot out features we want to fix/implement. 
 
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
+ - Moreover, another planned event is to go to the Albany Public Library as a small group so that we can ask them directly for any featuers they may desire (as well as look at our feature list and sort them via priority)
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
+- The main thing blocking us right now is installing AGENCY to at least one of our machines, this is mostly because of the really confusing instructions left by the creator of the program. Hopefully once we get it installed we can continue working
 
 ## Notes
 
